@@ -1,0 +1,113 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 150%;
+    color: #485268;
+  
+  }
+  .about {
+    display: flex;
+    padding: 32px 40px 24px 40px;
+    background-color:#E25544;
+    color: white;
+  }
+  
+  .about__photo {
+    width: 114px;
+    height: 114px;
+    border-radius: 50%;
+    margin-left: 50px;
+  }
+  
+  .about__name {
+    margin: 0 0 8px 0;
+    font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+  }
+  
+  .about__role {
+    margin: 0 0 8px 0;
+    font-size: 12px;
+    line-height: 15px;
+  }
+  
+  .about__text {
+    margin: 0;
+  }
+  
+  .main {
+    padding: 0 40px;
+  }
+  
+  .contacts {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 0;
+  }
+  
+  .contacts__link {
+    color: #485268;
+    text-decoration: none;
+  }
+  
+  .info {
+    border-top: 1px solid #DEE2ED;
+    padding: 24px 0;
+    
+  }
+  
+  .info__title {
+    margin: 0;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+    color: #E25544;
+  }
+  
+  .info__content {
+    width: 360px;
+  }
+  
+  .project_link {
+    margin-top: 24px;
+    border-left: 1px dashed #DEE2ED;
+    padding-left: 8px;
+  }
+  
+  .project_title {
+    margin: 0;
+  }
+  
+  .study_link {
+    margin-top: 24px;
+    border-left: 1px dashed #DEE2ED;
+    padding-left: 8px;
+  }
+  
+  .study_title {
+    margin: 0;
+  }
+  
+  .skills_link {
+    margin-top: 24px;
+    border-left: 1px dashed #DEE2ED;
+    padding-left: 8px;
+  }
+  
+  .skills_title {
+    margin: 0;
+  }
+  
+  .tools_link {
+    margin-top: 24px;
+    border-left: 1px dashed #DEE2ED;
+    padding-left: 8px;
+  }
+  
+  .tools_title {
+    margin: 0;
+  }
